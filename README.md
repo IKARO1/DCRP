@@ -3,6 +3,7 @@ A program to give you custom discord Playing statuses know as Rich presents
 Hello thanks for Downloading DCRP!
 
 Download it here:https://github.com/IKARO1/DCRP/blob/main/build.zip
+
 NOTE: the application has to be running in order to show the presents(its takes almost no processing power so just minimize it)
 How to setup:
 
