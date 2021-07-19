@@ -5,6 +5,10 @@ Hello thanks for Downloading DCRP!
 Download it here:https://github.com/IKARO1/DCRP/blob/main/build.zip
 
 NOTE: the application has to be running in order to show the presents(its takes almost no processing power so just minimize it)
+TrayApplication: in order to send DCRP to the task tray, run RBTray(RBTray-4_3/64bit/RBTray.exe) then right click the minimize Butten of DCRP
+AutoStart: i recomend puting DCRP and RBTray in the auto start so it starts with your pc!(put it on a 1 minute delay since it will crash without discord open)
+
+
 How to setup:
 
 
