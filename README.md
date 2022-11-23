@@ -1,14 +1,14 @@
-#DCRPv2 Features
+# DCRPv2 Features
 
 DCRPv2 Allows you to use a custom discord presence
     Featuring
-    -Custom Name and State
-    -Custom Images and Image texts
-    -TimeStampSupport
-      -Ability to automatically use the current Time
-      -Ability to use a predetermined time of day
-    -Automatic Silent Error Recovery
-      -DCRPv2 will automatically restart if discord crashes without bothering you
+    Custom Name and State
+    Custom Images and Image texts
+    TimeStampSupport
+      Ability to automatically use the current Time
+      Ability to use a predetermined time of day
+    Automatic Silent Error Recovery
+      DCRPv2 will automatically restart if discord crashes without bothering you
 
 
 How to setup:
