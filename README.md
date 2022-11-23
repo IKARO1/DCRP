@@ -1,12 +1,6 @@
-# DCRP
+# DCRPv2
 A program to give you custom discord Playing statuses know as Rich presents
-Hello thanks for Downloading DCRP!
-
-Download it here:https://github.com/IKARO1/DCRP/blob/main/build.zip
-
-NOTE: the application has to be running in order to show the presents(its takes almost no processing power so just minimize it)
-TrayApplication: in order to send DCRP to the task tray, run RBTray(RBTray-4_3/64bit/RBTray.exe) then right click the minimize Butten of DCRP
-AutoStart: i recomend puting DCRP and RBTray in the auto start so it starts with your pc!(put it on a 1 minute delay since it will crash without discord open)
+Hello thanks for Downloading DCRPv2!
 
 
 How to setup:
@@ -20,24 +14,28 @@ Once you signed in with your Discord Acount
 Click the button "New Application" on said website
 
 Now enter a name for your app(This will show in discord as playing Game "Name here")
-Then copy the Client ID and paste it in ID.txt(make sure that ID.txt only has your id number in it)
+Then copy the Client ID and paste it when prompted by DCRPv2
 
-Now you just start DCRP(Discord Rich Presents.exe)
-Create A new Preset By Clicking the +
-Then press "Choose Activity"
+Now you just start DCRPv2.exe
+Enter your id when Prompted
+then create your pressents
+and click choose activity
 Done!
+
 You now have A custom Rich presents
 
+if you would like the app to autostart
+click Autostart button (Non Intrusive)
 
 Adding images(Optional):
-go back to https://discord.com/developers/applications
+Go back to https://discord.com/developers/applications
 click on your App
 now on the left side bar klick "Rich Presence"
 you should now have a option to "Add Image(s)"
 click it and select your image
 once uploaded you can Change the name of your image
 Then all you need to do is press save at the bottom of your screen
-
+(Keep in mind that it may take a second to save)
 Keep in mind the image name is the image KEY!
 
 Using images(Optional):
